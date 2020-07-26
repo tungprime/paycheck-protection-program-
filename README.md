@@ -4,6 +4,8 @@ In this project, I will use public data to get insights into this program. The d
 
 https://sba.app.box.com/s/tvb0v5i57oa8gc6b5dcm9cyw7y2ms6pp
 
+Our analysis is done in the python jupyter notebook PPPprogram.ipynb
+
 As an Illinois resident, I will restrict myself to Illinois only. 
 
 I first learned about the PPP program from a <a href="https://www.meetup.com/PyDataChi/events/271789356"> talk</a> by Rory Hartong-Redden. He  had a <a href="https://github.com/roryhr/data_science_generalist"> Github repo </a> for his talk where he also did some analysis. My approach is a little different from Rory's: I will focus more on visualization. 
